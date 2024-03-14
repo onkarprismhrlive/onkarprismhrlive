@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - My name is **Onkar Sharma**
 - I'm a **Full Stack .NET Developer**
 - I have been awarded the **C# Corner MVP** _(Most Valuable Professional)_ **Award** 3 times :trophy:	:trophy:	:trophy:	
-- **Current Company:** [Epay Systems, A Prismhr Company](https://www.vensure.com/)
+- **Current Company:** [Epay Systems, A Vensure Employer Solutions Company](https://www.vensure.com/)
 
 :writing_hand: **My Recent Articles**
 
