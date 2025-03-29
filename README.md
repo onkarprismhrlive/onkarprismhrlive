@@ -56,8 +56,9 @@ Here are some ideas to get you started:
 
 📫 **How to reach me**
 
-- **LinkedIn:** https://in.linkedin.com/in/ionkarpandit
-- **Twitter:** https://twitter.com/ionkarpandit
 - **Facebook:** https://www.facebook.com/onkar.sharma.vatsa
+- **LinkedIn:** https://in.linkedin.com/in/ionkarpandit
+- **Medium:** https://medium.com/@ionkarpandit
 - **Instagram:** https://www.instagram.com/ionkarpandit/
+- **Twitter:** https://twitter.com/ionkarpandit
 - **Github:** https://github.com/ionkarpandit
